@@ -41,8 +41,8 @@
     </modules>
 
     <properties>
-        <dss.version>1.1.0</dss.version>
-        <linkis.version>1.1.1</linkis.version>
+        <dss.version>1.1.2</dss.version>
+        <linkis.version>1.4.0</linkis.version>
         <scala.version>2.11.12</scala.version>
         <jdk.compile.version>1.8</jdk.compile.version>
         <maven.version>3.3.3</maven.version>
@@ -57,7 +57,7 @@
         <spring.version>5.2.12.RELEASE</spring.version>
         <mybatis.spring.boot.version>2.1.2</mybatis.spring.boot.version>
         <spring.boot.version>2.3.7.RELEASE</spring.boot.version>
-        <spring.cloud.version>2.2.6.RELEASE</spring.cloud.version>
+        <spring.cloud.version>4.0.0</spring.cloud.version>
         <commons.math.version>3.1.1</commons.math.version>
         <commons.lang3.version>3.8.1</commons.lang3.version>
         <commons.lang.version>2.6</commons.lang.version>
