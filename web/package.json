@@ -27,7 +27,7 @@
         "babel-polyfill": "6.26.0",
         "butterfly-dag": "4.1.23",
         "core-js": "2.6.11",
-        "echarts": "^4.1.0",
+        "echarts": "^5.5.1",
         "iview": "3.5.4",
         "jsencrypt": "^3.2.1",
         "lodash": "4.17.20",
