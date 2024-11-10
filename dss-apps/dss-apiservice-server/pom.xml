@@ -344,7 +344,7 @@
         <dependency>
             <artifactId>xstream</artifactId>
             <groupId>com.thoughtworks.xstream</groupId>
-            <version>1.4.19</version>
+            <version>1.4.21</version>
         </dependency>
 
     </dependencies>
