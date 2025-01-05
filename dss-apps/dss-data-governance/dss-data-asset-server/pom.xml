@@ -13,7 +13,7 @@
     <artifactId>dss-data-asset-server</artifactId>
 
     <properties>
-        <atlas.version>2.1.0</atlas.version>
+        <atlas.version>2.4.0</atlas.version>
     </properties>
     <dependencies>
         <dependency>
