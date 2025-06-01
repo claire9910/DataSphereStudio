@@ -52,7 +52,7 @@
         <math3.version>3.1.1</math3.version>
         <httpclient.version>4.5.4</httpclient.version>
         <httpmime.version>4.5.4</httpmime.version>
-        <beanutils.version>1.9.4</beanutils.version>
+        <beanutils.version>1.11.0</beanutils.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>5.2.12.RELEASE</spring.version>
         <mybatis.spring.boot.version>2.1.2</mybatis.spring.boot.version>
